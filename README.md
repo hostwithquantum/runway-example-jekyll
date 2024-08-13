@@ -3,7 +3,7 @@
 # Runway Example jekyll App
 
 This is an example app demonstrating how to deploy a jekyll app
-to [runway](https://runway.planetary-quantum.com/).
+to [runway](https://www.runway.horse/).
 
 * clone this repo, and navigate into that directory
 * `runway app create`
